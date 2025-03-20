@@ -1,1 +1,1 @@
-# Afk-cham
+game:GetService("ReplicatedStorage").Networking.AFKEvent:FireServer()
